@@ -569,9 +569,9 @@ html, body {
 
 @media (max-width: 480px) {
   .home{
-    margin-top: 3rem;
+    margin-top: 1rem;
     background-position: center;
-    background-size: 140%;
+    background-size: 100%;
 
   }
   .form {
