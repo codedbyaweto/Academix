@@ -48,8 +48,6 @@ html, body {
 }
 
 .app-content {
-
-
   flex: 1;
 }
 
@@ -571,9 +569,9 @@ html, body {
 
 @media (max-width: 480px) {
   .home{
-    margin-top: 5.5rem;
+    margin-top: 3rem;
     background-position: center;
-    background-size: 170%;
+    background-size: 140%;
 
   }
   .form {
