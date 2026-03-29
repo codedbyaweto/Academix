@@ -576,6 +576,9 @@ html, body {
     background-size: 150%;
 
   }
+  .app-content {
+    overflow: hidden;
+  }
   .form {
     margin: 30px 15px;
     padding: 20px;
