@@ -571,7 +571,7 @@ html, body {
 
 @media (max-width: 480px) {
   .home{
-    margin-top: 7rem;
+    /* margin-top: 7rem; */
     background-position: center;
     background-size: 150%;
 
@@ -593,4 +593,7 @@ html, body {
   .details-title {
     font-size: 1.3rem;
   }
+
+  .footer {
+    margin-top: 0;
 }
